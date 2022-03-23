@@ -19,3 +19,5 @@ console.log(sum(1, 2));
 重写继承方法。
 
 prototype
+
+实现深拷贝，浅拷贝。
